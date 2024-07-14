@@ -33,13 +33,16 @@
 
 //Using PreDefined...
 
-class java{
-    public static void main(String[] args) {
-        int a =100, b=200;
-        System.out.println("Before Swaping - a= " + a + " And - b= "+ b );
-        int temp  = a;
-        a =b;
-        b=temp;
-        System.out.println("After Swaping - a= "+ a + " And - b= "+ b );
-    }
-}
+// class java{
+//     public static void main(String[] args) {
+//         int a =100, b=200;
+//         System.out.println("Before Swaping - a= " + a + " And - b= "+ b );
+//         int temp  = a;
+//         a =b;
+//         b=temp;
+//         System.out.println("After Swaping - a= "+ a + " And - b= "+ b );
+//     }
+// }
+
+
+
